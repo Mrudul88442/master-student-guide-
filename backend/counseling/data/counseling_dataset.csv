@@ -1,0 +1,308 @@
+stream	min_score	max_score	interest	college_name	college_course	college_fee	college_chance	match_score	career_title	career_desc	career_growth
+PCM	85	100	Computer Science	IIT Bombay	B.Tech Computer Science	250000	Medium	95	AI Engineer	Develop machine learning models and AI systems for top tech firms.	+24% YoY
+PCM	85	100	Computer Science	IIT Delhi	B.Tech Computer Science	230000	Medium	94	Software Architect	Design large-scale distributed systems and cloud infrastructure.	+22% YoY
+PCM	85	100	Computer Science	IIT Madras	B.Tech Computer Science	220000	Medium	93	Data Scientist	Analyze complex datasets to drive strategic business decisions.	+20% YoY
+PCM	85	100	Computer Science	IIT Kharagpur	B.Tech Computer Science	200000	Medium	92	Cybersecurity Engineer	Protect organizational systems from cyber threats and vulnerabilities.	+19% YoY
+PCM	85	100	Computer Science	IIT Kanpur	B.Tech Computer Science	210000	Medium	91	ML Research Scientist	Conduct cutting-edge research in machine learning and AI.	+21% YoY
+PCM	85	100	Computer Science	BITS Pilani	B.E. Computer Science	320000	High	90	Full Stack Developer	Build end-to-end web applications using modern frameworks.	+17% YoY
+PCM	85	100	Computer Science	IIT Roorkee	B.Tech Computer Science	205000	Medium	89	Cloud Architect	Design and manage cloud infrastructure on AWS/GCP/Azure.	+18% YoY
+PCM	85	100	Computer Science	IIT Hyderabad	B.Tech Computer Science	200000	Medium	88	DevOps Engineer	Automate and streamline software deployment pipelines.	+16% YoY
+PCM	85	100	Computer Science	IIT Guwahati	B.Tech Computer Science	195000	Medium	87	Blockchain Developer	Build decentralized applications and smart contracts.	+15% YoY
+PCM	85	100	Computer Science	IIIT Hyderabad	B.Tech Computer Science	350000	High	89	Product Engineer	Drive end-to-end product development at top tech companies.	+18% YoY
+PCM	85	100	Electronics	IIT Bombay	B.Tech Electrical Engineering	250000	Medium	90	VLSI Design Engineer	Design integrated circuits for semiconductor companies.	+16% YoY
+PCM	85	100	Electronics	IIT Delhi	B.Tech Electronics & Communication	230000	Medium	89	Embedded Systems Engineer	Develop firmware and embedded software for IoT devices.	+14% YoY
+PCM	85	100	Electronics	IIT Madras	B.Tech Electrical Engineering	220000	Medium	88	Signal Processing Engineer	Design algorithms for audio, video and communications systems.	+13% YoY
+PCM	85	100	Electronics	IIT Kharagpur	B.Tech ECE	200000	Medium	87	RF Engineer	Design radio-frequency systems for telecom and defense.	+12% YoY
+PCM	85	100	Electronics	BITS Pilani	B.E. Electronics	320000	High	86	Hardware Engineer	Design and test electronic hardware for consumer products.	+11% YoY
+PCM	85	100	Mechanical	IIT Bombay	B.Tech Mechanical Engineering	250000	Medium	88	Aerospace Engineer	Design aircraft and spacecraft components and systems.	+15% YoY
+PCM	85	100	Mechanical	IIT Delhi	B.Tech Mechanical Engineering	230000	Medium	87	Automotive Engineer	Develop next-generation electric and autonomous vehicles.	+14% YoY
+PCM	85	100	Mechanical	BITS Pilani	B.E. Mechanical	550000	High	92	Robotics Engineer	Design and build advanced robotics and automation systems.	+18% YoY
+PCM	85	100	Mechanical	IIT Madras	B.Tech Mechanical Engineering	220000	Medium	86	Manufacturing Engineer	Optimize production lines and manufacturing processes.	+10% YoY
+PCM	85	100	Mechanical	IIT Roorkee	B.Tech Mechanical Engineering	205000	Medium	85	Energy Engineer	Develop renewable energy systems and efficiency solutions.	+20% YoY
+PCM	85	100	Civil	IIT Bombay	B.Tech Civil Engineering	250000	Medium	85	Structural Engineer	Design bridges, buildings and large infrastructure projects.	+8% YoY
+PCM	85	100	Civil	IIT Delhi	B.Tech Civil Engineering	230000	Medium	84	Urban Planner	Plan sustainable cities and transportation networks.	+9% YoY
+PCM	85	100	Civil	IIT Roorkee	B.Tech Civil Engineering	205000	Medium	83	Geotechnical Engineer	Analyze soil and rock for construction projects.	+7% YoY
+PCM	85	100	Mathematics	IIT Bombay	B.S. Mathematics	220000	Medium	88	Quantitative Analyst	Apply mathematical models to financial markets and risk.	+22% YoY
+PCM	85	100	Mathematics	IIT Delhi	B.Tech Mathematics & Computing	230000	Medium	87	Actuarial Analyst	Assess financial risks using statistical and mathematical models.	+18% YoY
+PCM	85	100	Mathematics	Chennai Mathematical Institute	B.Sc Mathematics & CS	80000	Medium	86	Research Mathematician	Conduct theoretical research in pure and applied mathematics.	+10% YoY
+PCM	85	100	Mathematics	ISI Kolkata	B.Stat	20000	Hard	90	Data Scientist (Research)	Apply statistical theory to complex real-world datasets.	+20% YoY
+PCM	60	84	Computer Science	NIT Warangal	B.Tech Computer Science	250000	High	82	Software Developer	Build scalable web and mobile applications.	+15% YoY
+PCM	60	84	Computer Science	NIT Trichy	B.Tech Computer Science	225000	High	81	Backend Developer	Design APIs and server-side architectures for web platforms.	+14% YoY
+PCM	60	84	Computer Science	NIT Surathkal	B.Tech Computer Science	220000	High	80	Frontend Developer	Create responsive user interfaces using React and Vue.js.	+13% YoY
+PCM	60	84	Computer Science	NIT Calicut	B.Tech Computer Science	215000	High	79	Mobile App Developer	Build cross-platform apps for Android and iOS.	+16% YoY
+PCM	60	84	Computer Science	IIIT Allahabad	B.Tech IT	270000	High	78	QA Automation Engineer	Build automated test suites and ensure software quality.	+12% YoY
+PCM	60	84	Computer Science	VIT Vellore	B.Tech Computer Science	370000	High	77	Game Developer	Design and develop video games using Unity and Unreal.	+14% YoY
+PCM	60	84	Computer Science	Manipal IT	B.Tech Computer Science	490000	High	76	Systems Analyst	Analyze and improve IT systems for businesses.	+10% YoY
+PCM	60	84	Computer Science	SRM Chennai	B.Tech Computer Science	350000	High	75	Network Engineer	Design and maintain enterprise-level network infrastructure.	+9% YoY
+PCM	60	84	Computer Science	Thapar Patiala	B.Tech Computer Science	365000	High	77	Database Administrator	Manage and optimize relational and NoSQL databases.	+11% YoY
+PCM	60	84	Computer Science	PSG Tech Coimbatore	B.Tech IT	145000	High	76	ERP Consultant	Implement and customize enterprise resource planning systems.	+8% YoY
+PCM	60	84	Mechanical	VIT Vellore	B.Tech Mechanical	400000	High	85	Mechanical Designer	Work on CAD modeling and product design mechanisms.	+10% YoY
+PCM	60	84	Mechanical	NIT Warangal	B.Tech Mechanical	230000	High	80	Production Engineer	Oversee manufacturing operations and process optimization.	+9% YoY
+PCM	60	84	Mechanical	NIT Trichy	B.Tech Mechanical	220000	High	79	HVAC Engineer	Design heating, ventilation, and air conditioning systems.	+8% YoY
+PCM	60	84	Mechanical	Thapar Patiala	B.Tech Mechanical	360000	High	78	Quality Engineer	Implement quality control systems in manufacturing plants.	+7% YoY
+PCM	60	84	Mechanical	SRM Chennai	B.Tech Mechanical	340000	High	77	Maintenance Engineer	Manage preventive maintenance of industrial machinery.	+6% YoY
+PCM	60	84	Mechanical	Manipal MIT	B.Tech Mechanical	480000	High	76	Tool Design Engineer	Design jigs, fixtures, and tooling for manufacturing.	+7% YoY
+PCM	60	84	Civil	NIT Warangal	B.Tech Civil	225000	High	78	Site Engineer	Supervise and coordinate on-site construction activities.	+8% YoY
+PCM	60	84	Civil	NIT Trichy	B.Tech Civil	220000	High	77	Highway Engineer	Design and maintain road and highway infrastructure.	+7% YoY
+PCM	60	84	Civil	VIT Vellore	B.Tech Civil	390000	High	76	Environmental Engineer	Address pollution control and waste management challenges.	+9% YoY
+PCM	60	84	Electronics	NIT Warangal	B.Tech ECE	230000	High	79	Telecom Engineer	Design and maintain mobile and broadband networks.	+11% YoY
+PCM	60	84	Electronics	NIT Trichy	B.Tech ECE	225000	High	78	Instrumentation Engineer	Design measurement and control systems for industry.	+8% YoY
+PCM	60	84	Electronics	VIT Vellore	B.Tech ECE	390000	High	77	IoT Developer	Build connected device solutions and smart systems.	+15% YoY
+PCM	0	59	Computer Science	Local Engineering College	B.Tech IT	150000	High	75	IT Support Specialist	Manage and support IT infrastructure and networks.	+5% YoY
+PCM	0	59	Computer Science	Amity University	B.Tech Computer Science	500000	High	70	Junior Developer	Write and maintain code under senior developer supervision.	+7% YoY
+PCM	0	59	Computer Science	Chandigarh University	B.Tech IT	350000	High	68	Technical Support Engineer	Resolve software and hardware issues for enterprise clients.	+5% YoY
+PCM	0	59	Computer Science	Sharda University	B.Tech CS	430000	High	67	Web Designer	Create visually appealing website layouts and interfaces.	+6% YoY
+PCM	0	59	Mechanical	Lovely Professional University	B.Tech Mechanical	300000	High	65	Junior Mechanical Engineer	Support senior engineers in design and testing tasks.	+5% YoY
+PCM	0	59	Civil	Chitkara University	B.Tech Civil	350000	High	64	Junior Site Engineer	Assist in construction supervision and site documentation.	+4% YoY
+PCB	85	100	Medical	AIIMS Delhi	MBBS	5000	Hard	98	Surgeon	Perform life-saving surgeries and specialized medical care.	+12% YoY
+PCB	85	100	Medical	AIIMS Mumbai	MBBS	5000	Hard	97	Cardiologist	Diagnose and treat cardiovascular diseases and conditions.	+13% YoY
+PCB	85	100	Medical	AIIMS Jodhpur	MBBS	5000	Hard	96	Neurologist	Diagnose and treat disorders of the nervous system.	+14% YoY
+PCB	85	100	Medical	JIPMER Puducherry	MBBS	1000	Hard	95	Oncologist	Diagnose and treat cancer using advanced therapies.	+15% YoY
+PCB	85	100	Medical	Maulana Azad Medical College	MBBS	10000	Hard	94	Orthopedic Surgeon	Treat musculoskeletal injuries and conditions surgically.	+11% YoY
+PCB	85	100	Medical	Grant Medical College Mumbai	MBBS	50000	Hard	92	Pediatrician	Provide healthcare for infants, children, and adolescents.	+10% YoY
+PCB	85	100	Medical	Madras Medical College	MBBS	30000	Hard	91	Psychiatrist	Diagnose and treat mental health disorders.	+18% YoY
+PCB	85	100	Medical	King George's Medical University	MBBS	60000	Hard	90	Radiologist	Interpret medical images to diagnose diseases.	+12% YoY
+PCB	85	100	Pharmacy	Jamia Hamdard	B.Pharm	50000	High	85	Clinical Pharmacist	Optimize patient medication plans in hospital settings.	+10% YoY
+PCB	85	100	Pharmacy	JSS College of Pharmacy	B.Pharm	200000	High	84	Regulatory Affairs Specialist	Ensure pharmaceutical products meet regulatory standards.	+12% YoY
+PCB	85	100	Biotechnology	IIT Bombay	B.Tech Biotechnology	250000	Medium	88	Bioinformatics Scientist	Analyze genomic data using computational tools.	+20% YoY
+PCB	85	100	Biotechnology	IIT Delhi	B.Tech Biotechnology	230000	Medium	87	Genetic Counselor	Guide patients on genetic risks and testing options.	+18% YoY
+PCB	85	100	Veterinary	ICAR-IVRI	B.V.Sc & AH	10000	Hard	86	Veterinary Surgeon	Provide surgical and medical care for animals.	+9% YoY
+PCB	60	84	Medical	KMC Manipal	MBBS	1500000	High	85	General Physician	Diagnose and treat everyday health issues and illnesses.	+10% YoY
+PCB	60	84	Medical	Kasturba Medical College Mangalore	MBBS	1400000	High	84	Family Medicine Doctor	Provide comprehensive primary care to individuals and families.	+9% YoY
+PCB	60	84	Medical	JSS Medical College	MBBS	1200000	High	83	Emergency Medicine Physician	Manage critical medical emergencies in hospital settings.	+11% YoY
+PCB	60	84	Medical	Amrita School of Medicine	MBBS	1300000	High	82	Anesthesiologist	Administer anesthesia and manage patients during surgery.	+10% YoY
+PCB	60	84	Medical	Sri Ramachandra Medical College	MBBS	1250000	High	81	Dermatologist	Diagnose and treat skin disorders and cosmetic conditions.	+16% YoY
+PCB	60	84	Medical	Saveetha Medical College	MBBS	900000	High	80	Gynecologist	Provide reproductive and maternal health care to women.	+10% YoY
+PCB	60	84	Pharmacy	Poona College of Pharmacy	B.Pharm	120000	High	78	Drug Safety Specialist	Monitor adverse drug reactions for pharmaceutical companies.	+10% YoY
+PCB	60	84	Biotechnology	SRM Chennai	B.Tech Biotechnology	350000	High	79	Biomedical Researcher	Conduct lab research to develop new medical treatments.	+15% YoY
+PCB	60	84	Biotechnology	VIT Vellore	B.Tech Biotechnology	390000	High	78	Quality Control Analyst	Ensure quality standards in biotech manufacturing.	+9% YoY
+PCB	60	84	Allied Health	Manipal College of Allied Health	B.Sc Physiotherapy	400000	High	77	Physiotherapist	Rehabilitate patients with mobility and musculoskeletal issues.	+12% YoY
+PCB	60	84	Allied Health	Amrita	B.Sc Occupational Therapy	350000	High	76	Occupational Therapist	Help patients regain daily functional abilities post-injury.	+11% YoY
+PCB	60	84	Allied Health	KMC Manipal	B.Sc Medical Lab Technology	400000	High	75	Lab Technician (Senior)	Perform and interpret complex diagnostic laboratory tests.	+9% YoY
+PCB	0	59	Medical	Private Nursing College	B.Sc Nursing	100000	High	80	Registered Nurse	Provide direct patient care and medical support.	+15% YoY
+PCB	0	59	Medical	Government Nursing College	B.Sc Nursing	30000	High	79	Community Health Nurse	Deliver health services in rural and underserved communities.	+12% YoY
+PCB	0	59	Allied Health	Private Paramedical College	B.Sc Medical Lab Technology	80000	High	72	Lab Technician	Conduct routine diagnostic tests in clinical laboratories.	+8% YoY
+PCB	0	59	Allied Health	Private Physiotherapy College	B.Sc Physiotherapy	90000	High	71	Junior Physiotherapist	Assist senior physiotherapists in patient rehabilitation.	+10% YoY
+PCB	0	59	Pharmacy	Local Pharmacy College	D.Pharm	60000	High	70	Pharmacist (Retail)	Dispense medications and advise patients at retail pharmacies.	+5% YoY
+PCB	0	59	Biotechnology	Amity University	B.Sc Biotechnology	450000	High	65	Research Assistant	Support laboratory research under senior scientists.	+7% YoY
+Commerce	85	100	Business/MBA	SRCC Delhi	B.Com Honors	120000	Medium	90	Investment Banker	Manage corporate finance and large-scale investments.	+20% YoY
+Commerce	85	100	Business/MBA	LSR Delhi	B.Com Honors	80000	Medium	89	Management Consultant	Advise top organizations on strategy and operational efficiency.	+22% YoY
+Commerce	85	100	Business/MBA	St. Xavier's Mumbai	B.Com	90000	High	88	Chartered Accountant	Audit financial statements and advise on tax planning.	+15% YoY
+Commerce	85	100	Business/MBA	NIFT Delhi	B.Des Fashion	350000	High	87	Fashion Entrepreneur	Build and grow a fashion brand in retail or luxury market.	+18% YoY
+Commerce	85	100	Economics	Delhi School of Economics	M.A. Economics	30000	Hard	90	Economist	Research and analyze economic trends for policy development.	+12% YoY
+Commerce	85	100	Economics	Presidency College Kolkata	B.Sc Economics	25000	Medium	88	Economic Analyst	Analyze economic data to guide corporate strategy.	+14% YoY
+Commerce	85	100	Business/MBA	IIM Ahmedabad (IPM)	Integrated MBA	1200000	Hard	92	Strategic Consultant	Lead high-impact strategy engagements for Fortune 500 firms.	+25% YoY
+Commerce	85	100	Business/MBA	IIM Indore (IPM)	Integrated MBA	1100000	Hard	90	Brand Manager	Develop and execute brand strategy for consumer goods.	+18% YoY
+Commerce	85	100	Law	NLSIU Bangalore	B.A. LL.B.	100000	Hard	91	Corporate Lawyer	Advise companies on mergers, acquisitions, and compliance.	+20% YoY
+Commerce	85	100	Law	NALSAR Hyderabad	B.A. LL.B.	100000	Hard	90	Litigation Advocate	Represent clients in civil and commercial courts.	+15% YoY
+Commerce	85	100	Finance	NISM Mumbai	B.Sc Finance	80000	High	87	Portfolio Manager	Manage investment portfolios for high-net-worth clients.	+19% YoY
+Commerce	60	84	Business/MBA	Christ University	BBA	250000	High	85	Financial Analyst	Analyze market trends and provide financial recommendations.	+18% YoY
+Commerce	60	84	Business/MBA	Symbiosis BBA	BBA	280000	High	84	Marketing Manager	Plan and execute marketing campaigns for brands.	+15% YoY
+Commerce	60	84	Business/MBA	Amity University	BBA	420000	High	82	Business Development Executive	Identify and pursue new revenue opportunities.	+14% YoY
+Commerce	60	84	Business/MBA	NMIMS Mumbai	B.Com	270000	High	83	Tax Consultant	Guide clients through tax filing and planning strategies.	+12% YoY
+Commerce	60	84	Business/MBA	Jain University Bangalore	BBA	260000	High	81	HR Manager	Recruit talent and manage organizational culture.	+11% YoY
+Commerce	60	84	Business/MBA	MITSOM Pune	BBA	200000	High	80	Operations Manager	Coordinate business operations and supply chain activities.	+10% YoY
+Commerce	60	84	Business/MBA	Lovely Professional University	B.Com Honors	280000	High	78	Retail Manager	Oversee store operations and drive sales performance.	+8% YoY
+Commerce	60	84	Accounting	ICAI Foundation	CA Foundation	50000	High	86	Chartered Accountant (Trainee)	Complete articleship and qualify as a licensed CA.	+16% YoY
+Commerce	60	84	Economics	Fergusson College Pune	B.A. Economics	40000	High	79	Research Analyst	Gather and interpret economic data for business insights.	+12% YoY
+Commerce	60	84	Law	Symbiosis Law School	B.A. LL.B.	480000	High	82	Legal Associate	Draft contracts and provide legal research support.	+14% YoY
+Commerce	0	59	Business/MBA	Tier-3 Commerce College	B.Com	50000	High	75	Accountant	Maintain financial records and manage tax documentation.	+8% YoY
+Commerce	0	59	Business/MBA	Local BBA College	BBA	80000	High	70	Sales Executive	Meet sales targets through client outreach and pitching.	+6% YoY
+Commerce	0	59	Business/MBA	Distance Commerce College	B.Com (Distance)	20000	High	65	Bookkeeper	Record daily financial transactions for small businesses.	+4% YoY
+Commerce	0	59	Business/MBA	IGNOU	B.Com	5000	High	63	Bank Clerk	Handle cash transactions and customer service at banks.	+5% YoY
+Arts	85	100	Psychology	Delhi University	B.A. Psychology	80000	High	89	Clinical Psychologist	Provide mental health counseling and therapy.	+22% YoY
+Arts	85	100	Psychology	TISS Mumbai	M.A. Applied Psychology	50000	Hard	90	Industrial Psychologist	Improve workplace wellbeing and organizational behavior.	+20% YoY
+Arts	85	100	Psychology	Christ University Bangalore	B.Sc Psychology	230000	High	87	School Counselor	Support students' emotional and academic development.	+18% YoY
+Arts	85	100	Design	NID Ahmedabad	B.Des	300000	Medium	91	UI/UX Designer	Create beautiful and intuitive user interfaces.	+25% YoY
+Arts	85	100	Design	NID Bengaluru	B.Des Industrial Design	290000	Medium	90	Industrial Designer	Design functional and aesthetic consumer products.	+18% YoY
+Arts	85	100	Design	NIFT Delhi	B.Des Fashion	350000	High	89	Fashion Designer	Create original clothing and accessory collections.	+14% YoY
+Arts	85	100	Design	NIFT Mumbai	B.Des Textile	340000	High	88	Textile Designer	Develop fabric designs for apparel and home furnishings.	+12% YoY
+Arts	85	100	Journalism	IIMC Delhi	PG Diploma Journalism	25000	Hard	88	Investigative Journalist	Research and publish impactful stories on social issues.	+10% YoY
+Arts	85	100	Journalism	Asian College of Journalism	PG Diploma	200000	High	86	Broadcast Journalist	Present and produce news content for television media.	+9% YoY
+Arts	85	100	Law	NLSIU Bangalore	B.A. LL.B.	100000	Hard	92	Human Rights Lawyer	Advocate for civil liberties and fundamental rights.	+16% YoY
+Arts	85	100	History	JNU New Delhi	M.A. History	10000	Hard	85	Historian / Archivist	Research and preserve historical records and artifacts.	+6% YoY
+Arts	85	100	Political Science	JNU New Delhi	M.A. Political Science	10000	Hard	86	Policy Analyst	Analyze public policies and recommend improvements.	+12% YoY
+Arts	85	100	English Literature	Delhi University	B.A. English (Hons)	70000	High	85	Editor	Review and refine manuscripts for publishing houses.	+10% YoY
+Arts	85	100	Sociology	TISS Mumbai	B.A. Social Work	45000	High	84	Social Worker	Empower vulnerable communities through fieldwork.	+15% YoY
+Arts	85	100	Fine Arts	MS University Baroda	B.F.A.	30000	High	83	Visual Artist	Create original artworks for galleries and commissions.	+8% YoY
+Arts	85	100	Mass Communication	Symbiosis Pune	B.M.C.	250000	High	87	Digital Marketing Manager	Drive brand visibility through SEO and social media.	+25% YoY
+Arts	60	84	Design	NID Ahmedabad	B.Des	300000	Medium	85	UI/UX Designer	Create beautiful and intuitive user interfaces for digital products.	+25% YoY
+Arts	60	84	Design	Pearl Academy Delhi	B.Des Fashion	600000	High	82	Graphic Designer	Create visual content for brands across digital and print.	+13% YoY
+Arts	60	84	Design	Arena Animation	Diploma in Animation	150000	High	80	Animator	Produce animated content for films, games and ads.	+16% YoY
+Arts	60	84	Journalism	YMCA Delhi	B.Sc Mass Communication	60000	High	78	Content Producer	Create multimedia content for online news platforms.	+12% YoY
+Arts	60	84	Psychology	Fergusson College Pune	B.A. Psychology	40000	High	77	Counseling Psychologist	Provide therapy to individuals dealing with personal challenges.	+18% YoY
+Arts	60	84	Humanities	Miranda House Delhi	B.A. Humanities	75000	High	76	Social Media Manager	Manage brand presence across social media platforms.	+20% YoY
+Arts	60	84	Mass Communication	Manipal University	B.A. Mass Communication	490000	High	79	PR Executive	Manage public image and media relations for organizations.	+14% YoY
+Arts	60	84	Law	Amity Law School	B.A. LL.B.	600000	High	78	Legal Assistant	Support attorneys with case research and documentation.	+10% YoY
+Arts	60	84	Education	Azim Premji University	B.Ed	250000	High	75	Teacher (Secondary)	Educate secondary school students in humanities subjects.	+8% YoY
+Arts	60	84	Sociology	Jamia Millia Islamia	B.A. Social Work	50000	High	74	NGO Program Coordinator	Plan and implement social development programs.	+10% YoY
+Arts	0	59	General	Symbiosis Pune	Liberal Arts	250000	High	70	Content Writer	Create engaging written content for digital media and marketing.	+12% YoY
+Arts	0	59	General	Amity University	B.A. English	400000	High	65	Copywriter	Write persuasive marketing and advertising copy.	+10% YoY
+Arts	0	59	General	IGNOU	B.A. (Distance)	5000	High	62	Data Entry Operator	Input and manage data for organizational databases.	+3% YoY
+Arts	0	59	Education	Local B.Ed College	B.Ed	60000	High	68	Primary School Teacher	Teach foundational subjects to primary school students.	+7% YoY
+Arts	0	59	Fine Arts	Local Art College	B.F.A.	40000	High	65	Illustrator (Freelance)	Create illustrations for books, websites and social media.	+9% YoY
+Arts	0	59	Mass Communication	Regional Media College	B.Sc Media Studies	90000	High	66	Video Editor	Edit raw footage into polished video content.	+11% YoY
+PCM	85	100	Computer Science	Vellore Institute of Technology (Chennai Campus)	B.Tech CS (Specialization: AI & ML)	390000	High	86	AI Product Manager	Lead AI-driven product development for tech startups.	+22% YoY
+PCM	85	100	Computer Science	Symbiosis Institute of Technology Pune	B.Tech Computer Science	620000	High	85	Cloud Solutions Architect	Design scalable cloud solutions for enterprise clients.	+20% YoY
+PCM	85	100	Computer Science	Kalinga Institute of Industrial Technology (KIIT)	B.Tech CS	380000	High	84	Data Engineer	Build robust data pipelines and warehouses.	+18% YoY
+PCM	85	100	Computer Science	Manipal University Jaipur	B.Tech CS	450000	High	83	Cybersecurity Analyst	Monitor and respond to network threats in real time.	+19% YoY
+PCM	85	100	Computer Science	Shiv Nadar University	B.Tech CS	450000	High	87	Software Engineer (SDE-2)	Develop and maintain large-scale software systems.	+17% YoY
+PCM	85	100	Computer Science	Ashoka University	B.Sc CS & Math	820000	High	85	Quantitative Developer	Build algorithmic trading systems for financial firms.	+21% YoY
+PCM	85	100	Computer Science	OP Jindal Global University	B.Tech CS	750000	High	83	Tech Entrepreneur	Found and scale a technology startup.	+25% YoY
+PCM	85	100	Computer Science	MIT World Peace University Pune	B.Tech CS (AI)	430000	High	82	NLP Engineer	Build natural language processing systems and chatbots.	+22% YoY
+PCM	85	100	Computer Science	Presidency University Bangalore	B.Tech CS	380000	High	80	AR/VR Developer	Create immersive augmented and virtual reality experiences.	+20% YoY
+PCM	85	100	Computer Science	Amrita Vishwa Vidyapeetham	B.Tech CS	390000	High	82	Computer Vision Engineer	Build image recognition systems for robotics and healthcare.	+21% YoY
+PCM	85	100	Computer Science	Lovely Professional University	B.Tech CS (Hons)	310000	High	79	Game Engine Developer	Develop core systems for video game engines.	+15% YoY
+PCM	85	100	Computer Science	Chandigarh University	B.Tech CS (AI & ML)	360000	High	80	MLOps Engineer	Deploy and monitor machine learning models in production.	+20% YoY
+PCM	85	100	Computer Science	Jain University Bangalore	B.Tech CS	300000	High	78	Platform Engineer	Build internal developer platforms and toolchains.	+16% YoY
+PCM	85	100	Computer Science	Reva University Bangalore	B.Tech CS	290000	High	77	Backend Engineer (Node.js)	Build high-performance APIs and microservices.	+15% YoY
+PCM	85	100	Computer Science	Alliance University Bangalore	B.Tech CS	370000	High	78	Solutions Consultant	Bridge technical capabilities with client business needs.	+14% YoY
+PCM	85	100	Mechanical	Symbiosis Institute of Technology Pune	B.Tech Mechanical	610000	High	84	Thermal Engineer	Design cooling and heating systems for industrial applications.	+12% YoY
+PCM	85	100	Mechanical	KIIT Bhubaneswar	B.Tech Mechanical	370000	High	83	Automation Engineer	Implement automated manufacturing using PLCs and SCADA.	+14% YoY
+PCM	85	100	Mechanical	Shiv Nadar University	B.Tech Mechanical	445000	High	82	Research Engineer	Conduct applied R&D in advanced materials and manufacturing.	+11% YoY
+PCM	85	100	Mechanical	Amrita Vishwa Vidyapeetham	B.Tech Mechanical	380000	High	81	Simulation Engineer	Use FEA/CFD tools to simulate structural and fluid systems.	+12% YoY
+PCM	85	100	Mechanical	MIT Pune	B.Tech Mechanical	280000	High	80	Product Development Engineer	Prototype and test new mechanical products from concept.	+11% YoY
+PCM	60	84	Computer Science	BML Munjal University	B.Tech CS	495000	High	78	IT Consultant	Advise businesses on technology implementation strategies.	+13% YoY
+PCM	60	84	Computer Science	GD Goenka University	B.Tech CS	450000	High	76	Junior Data Analyst	Extract insights from business data using SQL and Python.	+14% YoY
+PCM	60	84	Computer Science	Graphic Era University Dehradun	B.Tech CS	320000	High	75	Web Application Developer	Build dynamic web apps using React and Django.	+13% YoY
+PCM	60	84	Computer Science	Invertis University	B.Tech IT	200000	High	72	Software Tester	Design and execute manual and automated test cases.	+8% YoY
+PCM	60	84	Computer Science	Quantum University Roorkee	B.Tech CS	220000	High	71	Junior Cloud Engineer	Support cloud infrastructure management on AWS/Azure.	+12% YoY
+PCM	60	84	Computer Science	Teerthanker Mahaveer University	B.Tech CS	180000	High	70	Technical Writer	Document software systems for developers and end-users.	+9% YoY
+PCM	60	84	Computer Science	Galgotias University	B.Tech CS	350000	High	74	ERP Developer	Customize and integrate ERP platforms like SAP and Oracle.	+10% YoY
+PCM	60	84	Computer Science	Noida International University	B.Tech IT	280000	High	72	Junior Software Engineer	Write and debug code in collaborative agile teams.	+10% YoY
+PCM	60	84	Computer Science	Suresh Gyan Vihar University Jaipur	B.Tech CS	260000	High	71	App Maintenance Engineer	Maintain and update existing mobile and web applications.	+8% YoY
+PCM	60	84	Computer Science	Manav Rachna University	B.Tech CS	380000	High	73	UI Developer	Build responsive web interfaces using HTML/CSS/JavaScript.	+11% YoY
+PCM	60	84	Computer Science	Maharishi Markandeshwar University	B.Tech CS	230000	High	70	Network Support Engineer	Troubleshoot and maintain enterprise LAN/WAN networks.	+7% YoY
+PCM	60	84	Computer Science	GNIOT Greater Noida	B.Tech CS	250000	High	71	Helpdesk Specialist	Provide Level 1 and Level 2 IT support to end users.	+6% YoY
+PCM	60	84	Computer Science	DY Patil University Pune	B.Tech CS	480000	High	74	DevSecOps Engineer	Integrate security practices into CI/CD pipelines.	+17% YoY
+PCM	60	84	Computer Science	Parul University Vadodara	B.Tech CS	290000	High	72	Salesforce Developer	Build custom applications on the Salesforce platform.	+13% YoY
+PCM	60	84	Computer Science	Sandip University Nashik	B.Tech CS	240000	High	70	Junior BI Developer	Create dashboards and reports using Power BI and Tableau.	+11% YoY
+PCM	60	84	Computer Science	Woxsen University Hyderabad	B.Tech CS (AI)	680000	High	76	Data Analytics Consultant	Help businesses make decisions using advanced analytics.	+16% YoY
+PCM	60	84	Computer Science	RV University Bangalore	B.Tech CS	490000	High	75	Product Analyst	Analyze user behavior to improve digital product design.	+14% YoY
+PCM	60	84	Computer Science	CMR University Bangalore	B.Tech CS	320000	High	73	Automation Tester	Write Selenium/Appium scripts for automated QA testing.	+10% YoY
+PCM	60	84	Computer Science	PES University Bangalore	B.Tech CS	420000	High	76	Computer Networks Engineer	Design and optimize enterprise network architectures.	+10% YoY
+PCM	60	84	Computer Science	BMS College of Engineering	B.E. CS	60000	Medium	77	Software Development Engineer	Build robust applications in Java, Python or C++.	+14% YoY
+PCM	60	84	Mechanical	Kalinga Institute of Industrial Technology	B.Tech Mechanical	370000	High	74	Piping Design Engineer	Design process piping systems for oil, gas and chemical plants.	+9% YoY
+PCM	60	84	Mechanical	DY Patil University	B.Tech Mechanical	470000	High	73	Automobile Service Engineer	Diagnose and resolve complex vehicle mechanical issues.	+7% YoY
+PCM	60	84	Mechanical	Galgotias University	B.Tech Mechanical	340000	High	72	Welding Engineer	Develop welding procedures and supervise fabrication.	+6% YoY
+PCM	60	84	Mechanical	Graphic Era University	B.Tech Mechanical	310000	High	71	CNC Programmer	Write CNC programs to machine precision engineering parts.	+8% YoY
+PCM	60	84	Mechanical	Chitkara University	B.Tech Mechanical	360000	High	70	Safety Engineer	Implement health, safety and environment standards at plants.	+7% YoY
+PCM	60	84	Mechanical	BML Munjal University	B.Tech Mechanical	485000	High	72	Lean Manufacturing Consultant	Implement lean and Six Sigma process improvements.	+9% YoY
+PCM	60	84	Mechanical	Parul University	B.Tech Mechanical	270000	High	70	Plant Maintenance Engineer	Ensure operational uptime of manufacturing plant equipment.	+6% YoY
+PCM	60	84	Mechanical	Sandip University	B.Tech Mechanical	230000	High	69	Junior Design Engineer	Assist in 3D CAD modeling and component detailing.	+7% YoY
+PCM	60	84	Mechanical	Woxsen University	B.Tech Mechanical	660000	High	73	Product Design Engineer	Design innovative consumer products using CAD and prototyping.	+10% YoY
+PCM	60	84	Mechanical	RNS Institute of Technology	B.E. Mechanical	100000	High	71	Production Supervisor	Supervise shop floor operations and workforce management.	+6% YoY
+PCM	0	59	Computer Science	Apex University Jaipur	B.Tech IT	160000	High	66	IT Helpdesk Technician	Provide first-line technical support for desktop and network issues.	+5% YoY
+PCM	0	59	Computer Science	Pacific University Udaipur	B.Tech CS	150000	High	65	Junior Web Developer	Build basic websites using HTML, CSS, Bootstrap and PHP.	+7% YoY
+PCM	0	59	Computer Science	Sangam University	B.Tech IT	140000	High	63	Data Entry Operator (Tech)	Maintain and update databases for IT departments.	+3% YoY
+PCM	0	59	Computer Science	Mewar University	B.Tech CS	130000	High	62	Tech Sales Executive	Sell software products and services to small businesses.	+5% YoY
+PCM	0	59	Mechanical	Career Point University	B.Tech Mechanical	170000	High	62	Workshop Supervisor	Manage day-to-day workshop operations and safety compliance.	+4% YoY
+PCM	0	59	Mechanical	Raffles University	B.Tech Mechanical	150000	High	61	Draughtsman (CAD Operator)	Produce technical drawings using AutoCAD from engineer inputs.	+5% YoY
+PCM	0	59	Civil	IIMT University Meerut	B.Tech Civil	140000	High	60	Junior Site Supervisor	Monitor construction progress and coordinate daily site tasks.	+4% YoY
+PCB	85	100	Medical	Kasturba Medical College Manipal	MBBS	1600000	High	93	Cardiologist	Treat complex heart conditions using advanced interventional techniques.	+13% YoY
+PCB	85	100	Medical	Amrita School of Medicine Kochi	MBBS	1350000	High	91	Neurosurgeon	Perform intricate surgeries on brain and spinal cord.	+14% YoY
+PCB	85	100	Medical	MS Ramaiah Medical College	MBBS	900000	High	90	Endocrinologist	Diagnose and treat hormonal disorders including diabetes.	+12% YoY
+PCB	85	100	Medical	PSG Institute of Medical Sciences	MBBS	1100000	High	89	Pulmonologist	Treat lung and respiratory disorders and critical care patients.	+11% YoY
+PCB	85	100	Medical	Vydehi Institute of Medical Sciences	MBBS	1050000	High	87	Gastroenterologist	Manage digestive tract diseases and perform endoscopies.	+12% YoY
+PCB	85	100	Medical	Yenepoya Medical College	MBBS	1200000	High	88	Ophthalmologist	Diagnose and surgically treat eye disorders and diseases.	+10% YoY
+PCB	85	100	Medical	Father Muller Medical College	MBBS	950000	High	87	ENT Specialist	Treat ear, nose and throat disorders surgically and medically.	+9% YoY
+PCB	85	100	Medical	Dr. DY Patil Medical College Pune	MBBS	1400000	High	86	Neonatologist	Provide specialized medical care for critically ill newborns.	+12% YoY
+PCB	85	100	Medical	SRM Medical College	MBBS	1300000	High	85	Rheumatologist	Diagnose and treat arthritis, lupus and other joint conditions.	+10% YoY
+PCB	85	100	Medical	Meenakshi Medical College	MBBS	850000	High	84	Radiologist (Interventional)	Perform image-guided minimally invasive medical procedures.	+13% YoY
+PCB	85	100	Pharmacy	Manipal College of Pharmaceutical Sciences	B.Pharm	500000	High	84	Pharmacovigilance Specialist	Monitor drug safety and adverse events in clinical trials.	+14% YoY
+PCB	85	100	Pharmacy	Poona College of Pharmacy	B.Pharm	130000	High	83	Hospital Pharmacist	Manage drug dispensing and clinical pharmacy services.	+10% YoY
+PCB	85	100	Pharmacy	SRM College of Pharmacy	B.Pharm	360000	High	82	Drug Regulatory Affairs Officer	Handle submissions to CDSCO and international drug agencies.	+12% YoY
+PCB	85	100	Biotechnology	Amity University Noida	B.Tech Biotechnology	470000	High	83	Biopharmaceutical Scientist	Develop protein-based drugs and biologics.	+18% YoY
+PCB	85	100	Biotechnology	Manipal University	B.Tech Biotechnology	500000	High	82	Genomics Analyst	Interpret next-generation sequencing data for diagnostics.	+20% YoY
+PCB	85	100	Allied Health	Manipal College of Allied Health Sciences	B.Sc Physiotherapy	410000	High	81	Sports Physiotherapist	Rehabilitate athletes after sports injuries.	+14% YoY
+PCB	85	100	Allied Health	Amrita College of Allied Health Sciences	B.Sc Occupational Therapy	360000	High	80	Pediatric OT	Help children with developmental delays improve daily skills.	+12% YoY
+PCB	60	84	Medical	Shri Ramachandra Institute (SRIHER)	MBBS	1250000	High	83	General Surgeon	Perform routine and emergency surgical procedures.	+9% YoY
+PCB	60	84	Medical	Sri Siddhartha Medical College	MBBS	1000000	High	82	Medical Officer	Provide primary healthcare in hospitals and clinics.	+8% YoY
+PCB	60	84	Medical	NITTE Deemed University	MBBS	1100000	High	81	Community Medicine Specialist	Lead public health initiatives and preventive care programs.	+10% YoY
+PCB	60	84	Medical	Rajiv Gandhi University of Health Sciences pvt colleges	MBBS	1200000	High	80	Diabetologist	Manage diabetes and metabolic disorders in outpatient settings.	+11% YoY
+PCB	60	84	Medical	Kempegowda Institute of Medical Sciences	MBBS	950000	High	79	Dermatologist (Cosmetology)	Combine dermatology with cosmetic skin treatments.	+18% YoY
+PCB	60	84	Medical	AJ Institute of Medical Sciences	MBBS	1050000	High	78	Obstetrician & Gynecologist	Manage pregnancy, childbirth, and women's health.	+9% YoY
+PCB	60	84	Medical	Subbaiah Institute of Medical Sciences	MBBS	900000	High	77	Junior Resident Doctor	Complete postgraduate training in a clinical specialization.	+8% YoY
+PCB	60	84	Pharmacy	Amrita School of Pharmacy	B.Pharm	410000	High	77	Pharmaceutical Sales Rep	Promote drugs to doctors and healthcare institutions.	+8% YoY
+PCB	60	84	Pharmacy	JSS College of Pharmacy Mysuru	B.Pharm	210000	High	76	Quality Assurance Pharmacist	Ensure GMP compliance in pharmaceutical manufacturing.	+9% YoY
+PCB	60	84	Pharmacy	LM College of Pharmacy	B.Pharm	90000	High	75	Research Pharmacist	Assist in drug formulation and bioavailability studies.	+10% YoY
+PCB	60	84	Biotechnology	DY Patil University Pune	B.Tech Biotechnology	480000	High	76	Clinical Research Associate	Monitor clinical trials and ensure regulatory compliance.	+14% YoY
+PCB	60	84	Biotechnology	Lovely Professional University	B.Tech Biotechnology	320000	High	74	Microbiology Analyst	Test pharmaceutical and food products for microbial contamination.	+9% YoY
+PCB	60	84	Biotechnology	KIIT Bhubaneswar	B.Tech Biotechnology	380000	High	75	Fermentation Scientist	Optimize industrial fermentation processes for bioproducts.	+11% YoY
+PCB	60	84	Allied Health	KIIT School of Allied Health	B.Sc Medical Imaging	370000	High	74	Radiographer	Perform diagnostic imaging using X-ray, CT and MRI systems.	+10% YoY
+PCB	60	84	Allied Health	DY Patil Allied Health	B.Sc Cardiac Care	450000	High	73	Cardiac Care Technician	Monitor and assist during cardiac procedures and surgeries.	+11% YoY
+PCB	60	84	Nursing	Amrita College of Nursing	B.Sc Nursing	380000	High	75	ICU Nurse	Provide critical care nursing in intensive care units.	+14% YoY
+PCB	60	84	Nursing	Manipal College of Nursing	B.Sc Nursing	410000	High	74	Pediatric Nurse	Deliver specialized nursing care to children and infants.	+12% YoY
+PCB	60	84	Nursing	SRM College of Nursing	B.Sc Nursing	350000	High	73	OT Nurse	Assist surgeons during operations and manage sterile environments.	+11% YoY
+PCB	60	84	Nursing	Sharda University College of Nursing	B.Sc Nursing	380000	High	72	Emergency Room Nurse	Triage and treat patients in hospital emergency departments.	+13% YoY
+PCB	0	59	Medical	Glocal University	B.Sc Clinical Research	150000	High	68	Clinical Data Coordinator	Manage clinical trial data entry and validation.	+9% YoY
+PCB	0	59	Allied Health	Sunrise University	B.Sc MLT	130000	High	67	Phlebotomist	Collect blood samples and manage specimen processing.	+6% YoY
+PCB	0	59	Allied Health	Santosh University Ghaziabad	B.Sc Radiology	180000	High	68	X-Ray Technician	Perform X-ray imaging under radiologist supervision.	+7% YoY
+PCB	0	59	Nursing	Private Nursing Institutions	B.Sc Nursing	110000	High	70	Home Care Nurse	Provide nursing care to patients in their home setting.	+10% YoY
+PCB	0	59	Pharmacy	Local Pharmacy College	B.Pharm	100000	High	66	Pharmacy Technician	Assist licensed pharmacists in dispensing medications.	+5% YoY
+Commerce	85	100	Business/MBA	SP Jain School of Global Management	BBA Global	2200000	High	91	Global Business Strategist	Develop international market entry and expansion strategies.	+24% YoY
+Commerce	85	100	Business/MBA	Narsee Monjee Institute of Management (NMIMS)	B.Com (Hons)	280000	High	88	Investment Analyst	Evaluate stocks, bonds and alternative investments.	+20% YoY
+Commerce	85	100	Business/MBA	FLAME University Pune	B.B.A.	820000	High	87	Business Development Manager	Grow company revenue through strategic partnerships.	+18% YoY
+Commerce	85	100	Business/MBA	Shiv Nadar University	B.A. Economics	460000	High	86	Economic Policy Researcher	Analyze and shape fiscal and monetary policy recommendations.	+14% YoY
+Commerce	85	100	Business/MBA	Ashoka University	B.Sc Economics	830000	High	88	Venture Capital Analyst	Evaluate startup investments for VC funds.	+22% YoY
+Commerce	85	100	Business/MBA	Great Lakes Institute of Management	PGPM	1200000	High	87	Management Consultant	Solve complex business problems for large organizations.	+22% YoY
+Commerce	85	100	Finance	ICFAI Business School Hyderabad	BBA Finance	380000	High	84	Financial Risk Manager	Identify and mitigate financial risks in banking.	+19% YoY
+Commerce	85	100	Finance	Narsee Monjee (NMIMS)	B.Sc Finance	275000	High	85	Equity Research Analyst	Produce research reports on publicly listed companies.	+20% YoY
+Commerce	85	100	Law	Symbiosis Law School Pune	B.A. LL.B.	490000	High	86	M&A Lawyer	Advise on corporate mergers, acquisitions and restructuring.	+22% YoY
+Commerce	85	100	Law	Jindal Global Law School	B.A. LL.B.	800000	High	88	International Trade Lawyer	Handle cross-border commercial disputes and trade compliance.	+20% YoY
+Commerce	85	100	Law	Amity Law School	LL.B. (Hons)	600000	High	84	IP & Technology Lawyer	Protect intellectual property rights in the digital economy.	+18% YoY
+Commerce	85	100	Business/MBA	Woxsen University	BBA (Business Design)	690000	High	85	Brand Strategist	Develop compelling brand identities and positioning strategies.	+17% YoY
+Commerce	85	100	Business/MBA	Bennett University	BBA	620000	High	83	Digital Commerce Manager	Drive e-commerce growth through analytics and optimization.	+20% YoY
+Commerce	60	84	Business/MBA	Amity University Noida	BBA	430000	High	82	Sales Manager	Lead a sales team to achieve quarterly revenue targets.	+12% YoY
+Commerce	60	84	Business/MBA	Lovely Professional University	B.Com Hons	290000	High	79	Junior Accountant	Record and reconcile financial transactions.	+8% YoY
+Commerce	60	84	Business/MBA	Sharda University	BBA	390000	High	78	E-commerce Specialist	Manage product listings and sales on Amazon and Flipkart.	+14% YoY
+Commerce	60	84	Business/MBA	Chitkara University	BBA	360000	High	77	Supply Chain Analyst	Analyze and optimize end-to-end supply chain performance.	+12% YoY
+Commerce	60	84	Business/MBA	Manav Rachna University	BBA	370000	High	76	Payroll Specialist	Process employee payroll and ensure statutory compliance.	+8% YoY
+Commerce	60	84	Business/MBA	GD Goenka University	BBA	450000	High	76	Entrepreneur (SME)	Launch and operate a small or medium-sized business.	+15% YoY
+Commerce	60	84	Business/MBA	Graphic Era University	B.Com	300000	High	75	Insurance Advisor	Sell and service insurance policies to individuals and firms.	+7% YoY
+Commerce	60	84	Business/MBA	Gitam University	BBA	360000	High	77	Business Analyst	Translate business needs into functional requirements for tech teams.	+14% YoY
+Commerce	60	84	Business/MBA	ICFAI University Dehradun	B.Com	200000	High	74	Credit Analyst	Assess creditworthiness of loan applicants for banks.	+10% YoY
+Commerce	60	84	Business/MBA	Raffles University	BBA	150000	High	72	Customer Relationship Manager	Build and maintain long-term client relationships.	+9% YoY
+Commerce	60	84	Finance	ICFAI Business School	BBA Finance	370000	High	78	Financial Planning Advisor	Provide personal financial planning and investment advice.	+14% YoY
+Commerce	60	84	Finance	Parul University	B.Com Finance	270000	High	75	Treasury Analyst	Manage company cash flow and short-term investments.	+12% YoY
+Commerce	60	84	Law	Amity Law School Lucknow	LL.B.	580000	High	76	Junior Advocate	Research cases and assist senior lawyers in court proceedings.	+10% YoY
+Commerce	60	84	Law	UPES Dehradun	B.A. LL.B.	700000	High	77	Energy & Infrastructure Lawyer	Handle contracts and disputes in power and infrastructure sectors.	+14% YoY
+Commerce	60	84	Law	SRM Law School	B.A. LL.B.	490000	High	75	Family Law Attorney	Represent clients in divorce, custody and matrimonial disputes.	+8% YoY
+Commerce	0	59	Business/MBA	Career Point University	B.Com	100000	High	65	Billing Executive	Generate and process invoices for clients and vendors.	+4% YoY
+Commerce	0	59	Business/MBA	Pacific University	BBA	120000	High	64	Office Administrator	Manage administrative operations and office coordination.	+4% YoY
+Commerce	0	59	Business/MBA	Apex University Jaipur	B.Com	95000	High	63	Field Sales Agent	Meet customers and promote products in assigned territories.	+5% YoY
+Commerce	0	59	Business/MBA	Mewar University	BBA	110000	High	62	Tally Operator	Maintain accounts using Tally ERP software.	+4% YoY
+Commerce	0	59	Business/MBA	Sangam University	B.Com	90000	High	61	Bank Probationary Officer Aspirant	Prepare for banking sector recruitment examinations.	+5% YoY
+Arts	85	100	Design	Pearl Academy Delhi	B.Des Fashion	600000	High	88	Fashion Stylist	Style celebrities and shoot editorial campaigns.	+16% YoY
+Arts	85	100	Design	Srishti-Manipal Institute	B.Des	480000	High	87	Service Designer	Design end-to-end service experiences for organizations.	+20% YoY
+Arts	85	100	Design	MIT Institute of Design Pune	B.Des	350000	High	86	Motion Graphics Designer	Produce animated graphics for broadcast and digital media.	+18% YoY
+Arts	85	100	Design	Whistling Woods International	B.Sc Film & TV Production	550000	High	87	Film Director	Direct feature films and web series for OTT platforms.	+20% YoY
+Arts	85	100	Design	Arena Animation (Advanced)	Advanced Diploma in VFX	200000	High	85	VFX Supervisor	Lead visual effects production for films and commercials.	+22% YoY
+Arts	85	100	Mass Communication	Symbiosis Institute of Media & Communication	B.M.C.	270000	High	86	Corporate Communications Lead	Manage internal and external communications for organizations.	+16% YoY
+Arts	85	100	Mass Communication	Xavier Institute of Communications	PG Diploma in Journalism	180000	High	85	Documentary Filmmaker	Produce investigative documentary films for global audiences.	+14% YoY
+Arts	85	100	Psychology	Christ University Bangalore	M.Sc Clinical Psychology	240000	High	87	Neuropsychologist	Assess cognitive and behavioral effects of neurological disorders.	+20% YoY
+Arts	85	100	Psychology	FLAME University	B.A. Psychology	800000	High	85	Organizational Psychologist	Improve employee performance and workplace wellbeing.	+22% YoY
+Arts	85	100	Journalism	Manipal Institute of Communication	B.A. Journalism	480000	High	84	Digital Journalist	Produce breaking news and analysis for online platforms.	+12% YoY
+Arts	85	100	Humanities	Ashoka University	B.A. Humanities & Social Sciences	840000	High	86	Policy Researcher	Conduct research to inform government and NGO policy.	+14% YoY
+Arts	85	100	Humanities	FLAME University	B.A. Liberal Arts	810000	High	85	Social Entrepreneur	Build ventures that address pressing social problems.	+18% YoY
+Arts	85	100	Education	Azim Premji University	B.Ed (Elementary)	260000	High	84	Education Innovator	Design new pedagogical approaches for schools and NGOs.	+12% YoY
+Arts	85	100	Fine Arts	Symbiosis School of Art & Design	B.Des	310000	High	83	Art Director (Advertising)	Lead visual creative direction for advertising campaigns.	+16% YoY
+Arts	85	100	Performing Arts	FTII Pune	Diploma Acting	100000	Hard	88	Actor / Performer	Perform in films, web series and theatre productions.	+20% YoY
+Arts	60	84	Design	GD Goenka University	B.Des	440000	High	79	Junior Graphic Designer	Produce visual assets for brands and marketing teams.	+12% YoY
+Arts	60	84	Design	IICD Jaipur	B.Des	230000	High	78	Interior Designer	Plan and execute interior spaces for residential and commercial use.	+13% YoY
+Arts	60	84	Design	Raffles Millennium International	Diploma in Design	280000	High	76	Fashion Retail Merchandiser	Plan product range and manage fashion retail buying.	+10% YoY
+Arts	60	84	Mass Communication	Amity School of Communication	B.A. Mass Comm.	420000	High	77	Podcast Producer	Produce and edit audio podcast content for digital platforms.	+14% YoY
+Arts	60	84	Mass Communication	UPES Dehradun	B.A. Journalism & Mass Comm.	600000	High	76	Content Strategist	Plan and optimize content marketing for digital brands.	+16% YoY
+Arts	60	84	Psychology	Amity Institute of Psychology	B.A. Psychology	420000	High	75	HR Recruiter	Screen candidates and manage talent acquisition pipelines.	+12% YoY
+Arts	60	84	Psychology	Parul University	B.Sc Psychology	270000	High	74	Child Development Specialist	Assess and support children's cognitive and social growth.	+14% YoY
+Arts	60	84	Education	Lovely Professional University	B.Ed	290000	High	73	Corporate Trainer	Design and deliver professional development training programs.	+10% YoY
+Arts	60	84	Humanities	Manipal University Jaipur	B.A. English	440000	High	72	ESL Teacher	Teach English to non-native speakers in schools and academies.	+8% YoY
+Arts	60	84	Fine Arts	RV College of Fine Arts	B.F.A.	50000	High	73	Illustrator	Create digital and traditional illustrations for various media.	+10% YoY
+Arts	60	84	Performing Arts	Symbiosis School of Performing Arts	B.A. Performing Arts	290000	High	74	Event Manager	Plan and execute concerts, corporate events and festivals.	+14% YoY
+Arts	60	84	Journalism	Amity School of Communication	B.A. Journalism	420000	High	73	Social Media Content Creator	Produce short-form video and written content for social platforms.	+20% YoY
+Arts	0	59	Design	Local Design Institute	Certificate in Graphic Design	50000	High	63	Junior Graphic Designer	Create basic design assets for social media and print.	+9% YoY
+Arts	0	59	Mass Communication	Regional Media College	Diploma in Mass Comm.	70000	High	62	Radio Jockey (RJ)	Host and produce radio programs for FM stations.	+7% YoY
+Arts	0	59	Psychology	Distance Psychology College	B.A. Psychology (Distance)	15000	High	60	Peer Support Counselor	Provide basic mental wellness support in community settings.	+8% YoY
+Arts	0	59	Education	Correspondence B.Ed	B.Ed (Distance)	40000	High	63	Tuition Teacher	Provide private tutoring to school students.	+5% YoY
+Arts	0	59	Humanities	IGNOU	B.A. (Distance)	5000	High	59	Freelance Translator	Translate documents between Indian languages and English.	+6% YoY
+Arts	0	59	Fine Arts	Local Art College	Certificate in Fine Arts	30000	High	61	Tattoo Artist	Design and apply custom tattoos at studios.	+10% YoY

@@ -1,0 +1,32 @@
+college_name,branch,category,closing_rank,fee,interest
+IIT Bombay,Computer Science,General,60,250000,Computer Science
+IIT Bombay,Computer Science,OBC,250,250000,Computer Science
+IIT Bombay,Computer Science,SC,100,250000,Computer Science
+IIT Bombay,Electrical,General,400,250000,Electronics
+IIT Delhi,Computer Science,General,100,230000,Computer Science
+IIT Delhi,Computer Science,OBC,350,230000,Computer Science
+IIT Madras,Computer Science,General,150,220000,Computer Science
+IIT Kanpur,Computer Science,General,200,210000,Computer Science
+IIT Kharagpur,Computer Science,General,250,200000,Computer Science
+NIT Trichy,Computer Science,General,1500,180000,Computer Science
+NIT Trichy,Computer Science,OBC,4000,180000,Computer Science
+NIT Warangal,Computer Science,General,2000,170000,Computer Science
+NIT Surathkal,Computer Science,General,2500,160000,Computer Science
+NIT Calicut,Computer Science,General,3500,150000,Computer Science
+BITS Pilani,Computer Science,General,500,320000,Computer Science
+DTU,Computer Science,General,8000,190000,Computer Science
+NSUT,Computer Science,General,10000,190000,Computer Science
+IIIT Hyderabad,Computer Science,General,800,350000,Computer Science
+IIIT Allahabad,Computer Science,General,5000,180000,Computer Science
+VIT Vellore,Computer Science,General,20000,350000,Computer Science
+Manipal IT,Computer Science,General,25000,450000,Computer Science
+Thapar Patiala,Computer Science,General,30000,360000,Computer Science
+SRM Chennai,Computer Science,General,40000,300000,Computer Science
+Local Engineering College,IT,General,500000,100000,Computer Science
+IIT Bombay,Mechanical,General,1500,250000,Mechanical
+NIT Trichy,Mechanical,General,8000,180000,Mechanical
+NIT Warangal,Mechanical,General,10000,170000,Mechanical
+VIT Vellore,Mechanical,General,40000,350000,Mechanical
+IIT Bombay,Civil,General,3000,250000,Civil
+NIT Trichy,Civil,General,15000,180000,Civil
+VIT Vellore,Civil,General,60000,350000,Civil
